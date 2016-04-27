@@ -41,3 +41,13 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 コメント画面
 
 ![コメント画面](./readme/question_comment.png)
+
+## 導入方法
+
+    $ git clone https://github.com/ferretdayo/question-problem.git
+    
+    $ cd question-problem
+    
+    $ composer install
+
+あとMySQLを利用しており，info_bbs.sqlに構造が入っているので，importしてください．
